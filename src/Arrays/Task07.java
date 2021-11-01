@@ -1,4 +1,4 @@
-package OneDimensionalArrays;
+package Arrays;
 
 /*
     Даны действительные числа a1, a2, ..., an.

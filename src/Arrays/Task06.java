@@ -1,4 +1,4 @@
-package OneDimensionalArrays;
+package Arrays;
 
 /*
     Задана последовательность N вещественных чисел. Вычислить сумму чисел,

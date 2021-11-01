@@ -1,4 +1,4 @@
-package OneDimensionalArrays;
+package Arrays;
 
 /*
     В массив А[N] занесены натуральные числа.
@@ -9,11 +9,11 @@ public class Task01 {
 
     public static void main(String[] args) {
 
-        int[] a2 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int k = 2;
         int sum = 0;
 
-        for (int element : a2) {
+        for (int element : array) {
             if (element % k == 0) {
                 sum += element;
             }

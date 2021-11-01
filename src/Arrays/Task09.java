@@ -1,4 +1,4 @@
-package OneDimensionalArrays;
+package Arrays;
 
 /*
     В массиве целых чисел с количеством элементов n найти наиболее часто встречающееся число.
